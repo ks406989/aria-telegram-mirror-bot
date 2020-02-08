@@ -1,0 +1,6 @@
+{
+  "bb_sync_version":"1.0",
+  "name":"Kamlesh1_bot",
+  "csv_url":"https://docs.google.com/spreadsheets/d/e/2PACX-1vSBQv12BAIBerIapTwLrvOCHTxC3RfNN-ubrKL9_15psYu29DIX7n_VC53aBrAGIEyf55tbcVq_Iq2L/pub?gid=0\u0026single=true\u0026output=csv",
+  "git_remote":"git@github.com:ks406989/aria-telegram-mirror-bot"
+}
